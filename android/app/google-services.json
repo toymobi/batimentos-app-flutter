@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "565588622444",
+    "firebase_url": "https://adot-batimento-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "adot-batimento",
+    "storage_bucket": "adot-batimento.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565588622444:android:c9c4ab817167e7d341ec49",
+        "android_client_info": {
+          "package_name": "com.example.monitor_vitais"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkptgBkg8v-GoBt3D9LeW-4cZ3vRoN5gw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
